@@ -9,7 +9,6 @@ A FastAPI-based RESTful API for a soda vending machine that uses AI to process n
 - **Transaction History**: Record all purchases
 - **RESTful API**: Clean, documented endpoints
 - **SQLite Database**: Persistent data storage
-- **Docker Support**: Containerized deployment
 
 ##  Tech Stack
 
@@ -17,7 +16,6 @@ A FastAPI-based RESTful API for a soda vending machine that uses AI to process n
 - **SQLModel**: SQL database toolkit
 - **Instructor**: AI-powered natural language parsing
 - **SQLite**: Lightweight database
-- **Docker**: Containerization
 
 ##  Requirements
 
@@ -29,7 +27,7 @@ A FastAPI-based RESTful API for a soda vending machine that uses AI to process n
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sachdevcode/happy-loop-soda-machine
 cd soda-vending-machine
 ```
 
